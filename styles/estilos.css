@@ -1,0 +1,40 @@
+li{
+    color: blue;
+}
+
+
+
+
+
+p{
+    color: black;
+}
+a{
+    color: blueviolet;
+}
+
+#parrafo1{
+    color: blue;
+}
+
+.parrafoVerde{
+    color: green;
+}
+
+.parrafoNegro{
+    color: black;
+}
+
+.letraNegrita{
+    font-weight: bold;
+}
+.letraItalic{
+    font-style: italic;
+}
+
+.letraAzul{
+    color: blue;
+}
+
+
+
