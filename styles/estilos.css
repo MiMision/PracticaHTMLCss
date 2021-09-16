@@ -1,11 +1,10 @@
-li{
+ul{
     color: blue;
 }
 
-
-
-
-
+h1{
+    color: red;
+}
 p{
     color: black;
 }
@@ -35,6 +34,3 @@ a{
 .letraAzul{
     color: blue;
 }
-
-
-
