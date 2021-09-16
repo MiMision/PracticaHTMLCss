@@ -5,24 +5,34 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario</title>
+    <style>
+        button{
+            background-color: white;
+            color: red;
+        }
+        input{
+            background-color: aquamarine;
+            color: black;
+        }
+    </style>
 </head>
 <body>
     <a href="./index.html">Regresar</a>
     <form>
         <label for="nombre" >
             Ingrse su nombre
-            <input name="nombre" placeholder="Ej: Luis" style="color: blue;" />
+            <input name="nombre" placeholder="Ej: Luis" />
         </label>
         <label for="apellido">
             Ingrse su apellido
-            <input name="apellido" placeholder="Ej: Serna" style="color: blue;">
+            <input name="apellido" placeholder="Ej: Serna">
         </label>
         <label for="edad">
             Ingrese su edad
-            <input name="edad" style="color: red;" placeholder="Edad" type="date">
+            <input name="edad" placeholder="Edad" type="date">
         </label>
-        <button type="submit" style="color: black; background-color:aqua;">Enviar</button>
-        <button type="reset" style="color: red; background-color:  white;">Resetear</button>
+        <button type="submit">Enviar</button>
+        <button type="reset">Resetear</button>
         
     </form>
 </body>
