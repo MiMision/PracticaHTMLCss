@@ -4,6 +4,9 @@ ul{
 
 h1{
     color: red;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: 900;
 }
 p{
     color: black;
